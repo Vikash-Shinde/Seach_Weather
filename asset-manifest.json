@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Seach_Weather/static/css/main.756af292.css",
+    "main.js": "/Seach_Weather/static/js/main.d42c49e3.js",
+    "static/js/787.c362683e.chunk.js": "/Seach_Weather/static/js/787.c362683e.chunk.js",
+    "index.html": "/Seach_Weather/index.html",
+    "main.756af292.css.map": "/Seach_Weather/static/css/main.756af292.css.map",
+    "main.d42c49e3.js.map": "/Seach_Weather/static/js/main.d42c49e3.js.map",
+    "787.c362683e.chunk.js.map": "/Seach_Weather/static/js/787.c362683e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.d42c49e3.js"
+  ]
+}
